@@ -9,7 +9,7 @@ alias lsla='ls -la'
 alias grepc='grep -C 1'
 
 # Debian
-alias upgrade='sudo apt update && sudo apt upgrade -y"d
+alias upgrade='sudo apt update && sudo apt upgrade -y"
 
 # Bash
 alias srcbash="source ~/.bashrc"
