@@ -8,6 +8,9 @@ alias cd..='cd ..'
 alias lsla='ls -la'
 alias grepc='grep -C 1'
 
+# Debian
+alias upgrade='sudo apt update && sudo apt upgrade -y"d
+
 # Bash
 alias srcbash="source ~/.bashrc"
 alias whatjava="ps -auvjr397 | grep *java*"
@@ -32,4 +35,4 @@ alias test="gw test"
 alias gb="gw build"
 alias gad="gw assembleDebug"
 alias gcb="gw clean build"
-alias STOP="gw --stop"
+alias STOP=e"gw --stop"
